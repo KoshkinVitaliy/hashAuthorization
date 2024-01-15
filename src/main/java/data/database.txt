@@ -1,0 +1,4 @@
+1 Vitaliy admin 0000
+2 Alexandra user 1111
+3 Ivan newUser 2222
+0 Valeria user3 4444
